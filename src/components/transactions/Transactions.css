@@ -1,0 +1,12 @@
+.all-transactions{
+    background-color: #022B3A;
+    max-width: 700px;
+    width: 40vw; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    padding: 40px 0 40px 0;
+    border-radius: 30px;
+}
+

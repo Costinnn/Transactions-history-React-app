@@ -1,0 +1,18 @@
+.transaction-container{
+    max-width: 500px;
+    width: 30vw; 
+}
+
+.transaction-date{
+    color: #E1E5F2;
+    margin: 0;
+    padding-left: 20px;
+}
+
+.transaction-box{
+    color: #022B3A;
+    background-color: #BFDBF7;
+    padding: 20px;
+    border-radius: 30px;
+    
+}
